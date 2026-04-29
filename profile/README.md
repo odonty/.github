@@ -1,6 +1,11 @@
-# Welcome to Code House
+# Welcome to Odonty
 
 Unlike anything you saw!
+
+SaaS platform for managing dental clinics.
+
+Odonty was created to simplify the routine of dental professionals, offering complete control of appointments, finances, and operations in one place.
+
 
 ## Our Stack
 
